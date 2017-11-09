@@ -19,7 +19,8 @@ You can include R code in the document as follows:
 summary(cars)
 ```
 
-## Including Plots
+## Including
+
 
 You can also embed plots, for example:
 
